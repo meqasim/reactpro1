@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <h2>
+          This react app is made by Hafiz Muhammad Qasim
+        </h2>
       </header>
     </div>
   );
