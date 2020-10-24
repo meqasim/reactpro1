@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <h2>
-          This react app is made by Hafiz Muhammad Qasim
+          This react app is made by Hafiz Muhammad Qasim and Muhammad Amir
         </h2>
         <h3>
           checkout my website <a href="http://www.blockchain313.com" target="_blank">BlockChain 313</a>
