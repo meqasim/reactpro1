@@ -23,6 +23,7 @@ function App() {
         <h3>
           checkout my website <a href="http://www.blockchain313.com" target="_blank">BlockChain 313</a>
         </h3>
+        <a href="http://www.cust.edu.pk" target="_blank">CUST</a>
       </header>
     </div>
   );
